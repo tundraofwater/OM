@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: OverlapMix-DD
+message: Please cite this software and the original RDED paper.
+type: software
+version: 0.1.0
+license: Apache-2.0
+references:
+  - type: conference-paper
+    title: "On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm"
+    authors:
+      - family-names: Sun
+        given-names: Peng
+      - family-names: Shi
+        given-names: Bei
+      - family-names: Yu
+        given-names: Daiwei
+      - family-names: Lin
+        given-names: Tao
+    conference:
+      name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    year: 2024
+

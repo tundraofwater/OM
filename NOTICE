@@ -1,0 +1,11 @@
+OverlapMix-DD
+
+This project includes a substantially reorganized implementation of ideas and
+code patterns from RDED ("On the Diversity and Realism of Distilled Dataset",
+CVPR 2024), originally distributed under the Apache License 2.0:
+https://github.com/LINs-lab/RDED
+
+The package layout, overlap-aware compositor, command-line interface, tests,
+configuration validation, and documentation in this repository are modified
+or newly written for this project.
+
